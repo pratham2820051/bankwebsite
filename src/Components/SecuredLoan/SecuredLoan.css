@@ -1,0 +1,121 @@
+/*SecuredLoan CSS*/
+
+.page_container {
+  min-height: 16vh;
+  height: 100%;
+  padding: 5px 0;
+  width: 100%;
+  background: #141e30; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #243b55,
+    #141e30
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #243b55,
+    #141e30
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.current_page_link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  padding: 0px 5px;
+  font-size: 14px;
+}
+.current_page_link a {
+  color: #fff;
+  text-decoration: none;
+}
+.heading3 {
+  color: #fff;
+  font-weight: 800;
+  text-align: center;
+  padding-top: 2rem;
+}
+.page_container1 {
+  color: #5d5757;
+}
+.page_container2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.page_container21 h4 {
+  margin-top: 40px;
+  color: #564f4f;
+  font-weight: 800;
+  font-size: 21px;
+}
+.page_container21 ul {
+  color: #808080;
+  list-style: disc;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.page_container31 h4 {
+  margin-top: 40px;
+  color: #564f4f;
+  font-weight: 800;
+  font-size: 21px;
+  padding-left: 0;
+}
+.page_container31 ul {
+  color: #808080;
+  list-style: disc;
+}
+.page_container31 h5 {
+  color: #564f4f;
+  font-weight: bold;
+}
+.Image {
+  height: 280px;
+}
+.applyBtn {
+  border: 2px solid #000000;
+  border-radius: 6px;
+  background-color: #000000;
+  color: #fff;
+  padding: 10px 20px;
+  font-weight: 700;
+  margin-top: 40px;
+}
+
+.page_container31 li,
+.page_container21 li {
+  padding-top: 10px;
+}
+@media screen and (max-width: 821px) {
+  .page_container2 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .page_container1 {
+    margin: 5px;
+    color: #716e6e;
+  }
+  .page_container31 h4 {
+    margin-top: 40px;
+    color: #716e6e;
+    font-weight: 800;
+    font-size: 21px;
+    margin-left: 1rem;
+    margin-right: 2rem;
+  }
+  .page_container31 > ul {
+    color: #808080;
+    margin-left: 1rem;
+    margin-right: 2rem;
+    list-style: disc;
+  }
+
+  .page_container31 h5 {
+    color: #676262;
+    font-weight: bold;
+    margin-top: 2rem;
+  }
+}

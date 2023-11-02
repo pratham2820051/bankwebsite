@@ -1,0 +1,424 @@
+
+  [ {    
+         "id": "1",
+        "loan_type": "General Loan",
+         "type":"general" ,
+         "link" : "/secured/1" ,
+         "description": "A sum of money which is borrowed to be paid back with interest over a period of time. Individual Entity which borrows a sum of money from the lender and receives a direct benefit or direct interest from the Loan.",
+        "features_and_benefits": [
+           "Attractive Interest Rates",
+           "Financial assistance for self-employed women in various business enterprises",
+           "Up-gradation, renovation, and extension of residential property",
+           "Medical and emergency expenditure for family maintenance",
+           "Wedding Expenditure",
+           "Major Surgical operation",
+           "Expansion of existing business or starting a new venture",
+           "Meeting other genuine needs as agreed upon by the Borrower and Lender",
+           "Support for starting a small business"
+        ],
+        "image":"http://www.kosivikasnidhi.com/cms/assets/images/loan%20images/general_loan.png" ,
+        "eligibility": {
+           "requirements": [
+              "Must be a member of the KVNL Holding with a single or joint account with family members (father, mother, wife, son, or daughter) with regular income",
+              "Individuals employed or self-employed with regular income",
+              "Permanent employees of Central/State/Defence/Public or Joint Sector Undertakings, reputed firms, established Educational Institutions, Professionals, Businessmen with regular income"
+           ]
+        },
+        "loan_purpose": [
+         "Up-gradation, renovation, and extension of residential property",
+         "Medical and emergency expenditure for family maintenance",
+         "Meeting wedding expenses",
+         "Major surgical operations",
+         "Business expansion or starting a new venture",
+         "Meeting other genuine needs as specified by the borrower and agreed to by the lender",
+         "Planning to start a small business"
+       ],
+        "loan_amount": "As per eligibility and Income Earning Capacity",
+        "repayment_details": "EMI or Regular",
+        "processing_charges_and_service_tax": "Processing Fees and Other Charges (Inclusive) PLUS Service Tax as applicable",
+        "supporting_documents": {
+           "photo_identity_proof": [
+              "Passport",
+              "PAN card",
+              "Voters Identity Card",
+              "Driving License"
+           ],
+           "residence_proof": [
+              "Telephone Bill",
+              "Letter from any recognized Public Authority",
+              "Electricity Bill",
+              "Ration Card",
+              "Letter from employer (subject to satisfaction by the Bank)",
+              "Property Tax Book/Receipt",
+              "Registered Lease Deed"
+           ],
+           "other_documents": [
+              "Application on Prescribed form",
+              "Two photographs of Borrower and Guarantors",
+              "Address proof of Borrower and Guarantors (copy of Ration Card, Election card, Telephone bill, Driving License, etc.)",
+              "Income proof (Copy of Income Tax Return, Financial Statement of the Firm, Sales Tax returns, etc.)",
+              "Profile of Guarantors",
+              "Loan should be guaranteed by three financially sound Guarantors having net individual worth twice the loan amount",
+              "Any other marketable security"
+           ]
+        }
+     },
+   {    
+      "id": "2" ,
+      "loan_type": "Property Loan",
+      "type":"property" ,
+      "link" : "/secured/2" 
+    },
+
+    {    
+      "id": "3" ,
+      "loan_type": "Vehicle Loan",
+      "type":"vehicle" ,
+      "link" : "/secured/3" ,
+      "description": "Loan will be sanctioned to purchase a new or an old vehicle, by hypothecating the same for the personal or commercial use.",
+      "features_and_benefits": [
+         "Attractive Interest Rates",
+         "Eligibility for members of KOSI VIKAS NIDHI LIMITED (KVNL)",
+         "Holding single or joint accounts with family members with regular income",
+         "Available to employed/self-employed individuals with regular income",
+         "Various purposes, including property upgrades, major surgeries, business expansion, and more",
+         "Flexible financing based on eligibility and income earning capacity",
+         "Repayment options through EMI or Regular payments",
+         "Processing fees and charges (inclusive) plus applicable Service Tax",
+         "Required supporting documents, including photo identity proof, residence proof, income proof ",
+         "Acceptance of other marketable securities"
+      ],
+      "image":"http://www.kosivikasnidhi.com/cms/assets/images/loan%20images/vehicle-loan.png" ,
+      "eligibility": {
+        "requirements": [
+          "Member of KVNL",
+          "Holding either single or joint accounts with family members (father, mother, wife, son, or daughter) with regular income",
+          "Individuals who may be employed/self-employed in business with regular income",
+          "Permanent employees of Central/State/Defence/Public or Joint Sector Undertakings/reputed firms/established Educational Institutions/Professionals/Businessmen with regular income"
+        ]
+      },
+      "loan_purpose": [
+        "Up-gradation, renovation, and extension of residential property",
+        "Medical and emergency expenditure for family maintenance",
+        "Meeting wedding expenses",
+        "Major surgical operations",
+        "Business expansion or starting a new venture",
+        "Meeting other genuine needs as specified by the borrower and agreed to by the lender",
+        "Planning to start a small business"
+      ],
+      "quantum_of_finance": "As per eligibility and income earning capacity",
+      "repayment_details": "By EMI or Regular payments",
+      "processing_charges_and_service_tax": "Processing Fees and Other Charges (Inclusive) PLUS Service Tax as applicable",
+      "supporting_documents": {
+        "photo_identity_proof": [
+          "Passport",
+          "PAN card",
+          "Voters Identity Card",
+          "Driving License"
+        ],
+        "residence_proof": [
+          "Telephone Bill",
+          "Letter from any recognized Public Authority",
+          "Electricity Bill",
+          "Ration Card",
+          "Letter from employer (subject to satisfaction by the Bank)",
+          "Property Tax Book/Receipt",
+          "Registered Lease Deed"
+        ],
+        "other_documents": [
+          "Application on Prescribed form",
+          "Two photographs of Borrower and Guarantors",
+          "Address proof of Borrower and Guarantors (copy of Ration Card, Election card, Telephone bill, Driving License, etc.)",
+          "Income proof (Copy of Income Tax Return, Financial Statement of the Firm, Sales Tax returns, etc.)",
+          "Profile of Guarantors",
+          "Loan should be guaranteed by three financially sound Guarantors having net individual worth twice the loan amount",
+          "Acceptance of other marketable security"
+        ]
+      }
+    },
+     
+
+
+    {    
+      "id": "4" ,
+      "loan_type": "Secured Loan",
+      "type":"loan" ,
+      "link" : "/secured/4" ,
+      "description": "A Secured Loan is a loan where the borrower he will pledges for some asset which is used as Collateral. In this type product they will be sanctioning loan process for personal & commercial use.",
+      "features_and_benefits": [
+         "Attractive Interest Rates",
+        "Eligibility for members of KOSI VIKAS NIDHI LIMITED (KVNL)",
+        "Holding single or joint accounts with family members with regular income",
+        "Available to employed/self-employed individuals with regular income",
+        "Various purposes, including property upgrades, major surgeries, business expansion, and more",
+        "Flexible financing based on eligibility and income earning capacity",
+        "Repayment options through EMI or Regular payments",
+        "Processing fees and charges (inclusive) plus applicable Service Tax",
+        "Required supporting documents, including photo identity proof, residence proof, income proof ",
+        "Acceptance of other marketable securities"
+      ],
+      "image":"http://www.kosivikasnidhi.com/cms/assets/images/loan%20images/property_loan.png" ,
+      "eligibility": {
+        "requirements": [
+          "Member of KVNL",
+          "Holding either single or joint accounts with family members (father, mother, wife, son, or daughter) with regular income",
+          "Individuals who may be employed/self-employed in business with regular income",
+          "Permanent employees of Central/State/Defence/Public or Joint Sector Undertakings/reputed firms/established Educational Institutions/Professionals/Businessmen with regular income"
+        ]
+      },
+      "loan_purpose": [
+        "Up-gradation, renovation, and extension of residential property",
+        "Medical and emergency expenditure for family maintenance",
+        "Meeting wedding expenses",
+        "Major surgical operations",
+        "Business expansion or starting a new venture",
+        "Meeting other genuine needs as specified by the borrower and agreed to by the lender",
+        "Planning to start a small business"
+      ],
+      "quantum_of_finance": "As per eligibility and income earning capacity",
+      "repayment_details": "By EMI or Regular payments",
+      "processing_charges_and_service_tax": "Processing Fees and Other Charges (Inclusive) PLUS Service Tax as applicable",
+      "supporting_documents": {
+        "photo_identity_proof": [
+          "Passport",
+          "PAN card",
+          "Voters Identity Card",
+          "Driving License"
+        ],
+        "residence_proof": [
+          "Telephone Bill",
+          "Letter from any recognized Public Authority",
+          "Electricity Bill",
+          "Ration Card",
+          "Letter from employer (subject to satisfaction by the Bank)",
+          "Property Tax Book/Receipt",
+          "Registered Lease Deed"
+        ],
+        "other_documents": [
+          "Application on Prescribed form",
+          "Two photographs of Borrower and Guarantors",
+          "Address proof of Borrower and Guarantors (copy of Ration Card, Election card, Telephone bill, Driving License, etc.)",
+          "Income proof (Copy of Income Tax Return, Financial Statement of the Firm, Sales Tax returns, etc.)",
+          "Profile of Guarantors",
+          "Loan should be guaranteed by three financially sound Guarantors having net individual worth twice the loan amount",
+          "Acceptance of other marketable security"
+        ]
+      }
+    },
+
+    {    
+      "id": "5" ,
+      "loan_type": "Education Loan",
+      "type":"education" ,
+      "link" : "/secured/5" ,
+      "description": "This loan aims at providing financial support to deserving /meritorious students for pursuing higher education in India and abroad.",
+      "features_and_benefits": [
+         "Attractive Interest Rates",
+         "Eligibility for members of KOSI VIKAS NIDHI LIMITED (KVNL)",
+         "Holding single or joint accounts with family members with regular income",
+         "Available to employed/self-employed individuals with regular income",
+         "Various purposes, including property upgrades, major surgeries, business expansion, and more",
+         "Flexible financing based on eligibility and income earning capacity",
+         "Repayment options through EMI or Regular payments",
+         "Processing fees and charges (inclusive) plus applicable Service Tax",
+         "Required supporting documents, including photo identity proof, residence proof, income proof ",
+         "Acceptance of other marketable securities"
+      ],
+      "image":"http://www.kosivikasnidhi.com/cms/assets/images/loan%20images/education_loan.png" ,
+      "eligibility": {
+        "requirements": [
+          "Member of KVNL",
+          "Holding either single or joint accounts with family members (father, mother, wife, son, or daughter) with regular income",
+          "Individuals who may be employed/self-employed in business with regular income",
+          "Permanent employees of Central/State/Defence/Public or Joint Sector Undertakings/reputed firms/established Educational Institutions/Professionals/Businessmen with regular income"
+        ]
+      },
+      "loan_purpose": [
+        "Up-gradation, renovation, and extension of residential property",
+        "Medical and emergency expenditure for family maintenance",
+        "Meeting wedding expenses",
+        "Major surgical operations",
+        "Business expansion or starting a new venture",
+        "Meeting other genuine needs as specified by the borrower and agreed to by the lender",
+        "Planning to start a small business"
+      ],
+      "quantum_of_finance": "As per eligibility and income earning capacity",
+      "repayment_details": "By EMI or Regular payments",
+      "processing_charges_and_service_tax": "Processing Fees and Other Charges (Inclusive) PLUS Service Tax as applicable",
+      "supporting_documents": {
+        "photo_identity_proof": [
+          "Passport",
+          "PAN card",
+          "Voters Identity Card",
+          "Driving License"
+        ],
+        "residence_proof": [
+          "Telephone Bill",
+          "Letter from any recognized Public Authority",
+          "Electricity Bill",
+          "Ration Card",
+          "Letter from employer (subject to satisfaction by the Bank)",
+          "Property Tax Book/Receipt",
+          "Registered Lease Deed"
+        ],
+        "other_documents": [
+          "Application on Prescribed form",
+          "Two photographs of Borrower and Guarantors",
+          "Address proof of Borrower and Guarantors (copy of Ration Card, Election card, Telephone bill, Driving License, etc.)",
+          "Income proof (Copy of Income Tax Return, Financial Statement of the Firm, Sales Tax returns, etc.)",
+          "Profile of Guarantors",
+          "Loan should be guaranteed by three financially sound Guarantors having net individual worth twice the loan amount",
+          "Acceptance of other marketable security"
+        ]
+      }
+    },
+
+
+    {    
+      "id": "6" ,
+      "loan_type": "Business Loan",
+      "type":"business" ,
+      "link" : "/secured/6" 
+    },
+
+
+    {    
+      "id": "7" ,
+      "loan_type": "Mortage Loan",
+      "type":"mortage" ,
+      "link" : "/secured/7" ,
+      "description": "A mortgage is a loan where the property or real estate is used as collateral. The borrower enters into an agreement with the lender to receive cash upfront and makes payments over a specified period until the loan is paid in full.",
+      "features_and_benefits": [
+         "Attractive Interest Rates",
+         "Eligibility for members of KOSI VIKAS NIDHI LIMITED (KVNL)",
+         "Holding single or joint accounts with family members with regular income",
+         "Available to employed/self-employed individuals with regular income",
+         "Various purposes, including property upgrades, major surgeries, business expansion, and more",
+         "Flexible financing based on eligibility and income earning capacity",
+         "Repayment options through EMI or Regular payments",
+         "Processing fees and charges (inclusive) plus applicable Service Tax",
+         "Required supporting documents, including photo identity proof, residence proof, income proof ",
+         "Acceptance of other marketable securities"
+      ],
+      "image":"http://www.kosivikasnidhi.com/cms/assets/images/loan%20images/mortgage_loan.png" ,
+      "eligibility": {
+        "requirements": [
+          "Member of KVNL",
+          "Holding either single or joint accounts with family members (father, mother, wife, son, or daughter) with regular income",
+          "Individuals who may be employed/self-employed in business with regular income",
+          "Permanent employees of Central/State/Defence/Public or Joint Sector Undertakings/reputed firms/established Educational Institutions/Professionals/Businessmen with regular income"
+        ]
+      },
+      "loan_purpose": [
+        "Up-gradation, renovation, and extension of residential property",
+        "Medical and emergency expenditure for family maintenance",
+        "Meeting wedding expenses",
+        "Major surgical operations",
+        "Business expansion or starting a new venture",
+        "Meeting other genuine needs as specified by the borrower and agreed to by the lender",
+        "Planning to start a small business"
+      ],
+      "quantum_of_finance": "As per eligibility and income earning capacity",
+      "repayment_details": "By EMI or Regular payments",
+      "processing_charges_and_service_tax": "Processing Fees and Other Charges (Inclusive) PLUS Service Tax as applicable",
+      "supporting_documents": {
+        "photo_identity_proof": [
+          "Passport",
+          "PAN card",
+          "Voters Identity Card",
+          "Driving License"
+        ],
+        "residence_proof": [
+          "Telephone Bill",
+          "Letter from any recognized Public Authority",
+          "Electricity Bill",
+          "Ration Card",
+          "Letter from employer (subject to satisfaction by the Bank)",
+          "Property Tax Book/Receipt",
+          "Registered Lease Deed"
+        ],
+        "other_documents": [
+          "Application on Prescribed form",
+          "Two photographs of Borrower and Guarantors",
+          "Address proof of Borrower and Guarantors (copy of Ration Card, Election card, Telephone bill, Driving License, etc.)",
+          "Income proof (Copy of Income Tax Return, Financial Statement of the Firm, Sales Tax returns, etc.)",
+          "Profile of Guarantors",
+          "Loan should be guaranteed by three financially sound Guarantors having net individual worth twice the loan amount",
+          "Acceptance of other marketable security"
+        ]
+      }
+    },
+
+    {    
+      "id": "8" ,
+      "loan_type": "Loan Against Deposit",
+      "type":"againstdeposit" ,
+      "link" : "/secured/8" 
+    },
+   
+
+    {    
+      "id": "9" ,
+      "loan_type": "Gold Loan",
+      "type":"gold" ,
+      "link" : "/secured/9" ,
+      "description": "Let the gold add glitter to your life. Unlock the value of your gold while you continue to own it. KVNL. designed to provide liquidity against gold and gold Jewelers without having to sell them. Let your gold help you bring the golden period in life...",
+      "features_and_benefits": [
+        "Attractive Interest Rates",
+        "Eligibility for members of KOSI VIKAS NIDHI LIMITED (KVNL)",
+        "Holding single or joint accounts with family members with regular income",
+        "Processing fees and charges (inclusive) plus applicable Service Tax",
+        "Acceptance of other marketable securities"
+      ],
+      "image":"http://www.kosivikasnidhi.com/cms/assets/images/loan%20images/gold_silver_diamond-loan.png" ,
+      "eligibility": {
+        "requirements": [
+          "Member of KVNL",
+          "Holding either single or joint accounts with family members (father, mother, wife, son, or daughter) with regular income",
+          "Individuals who may be employed/self-employed in business with regular income",
+          "Permanent employees of Central/State/Defence/Public or Joint Sector Undertakings/reputed firms/established Educational Institutions/Professionals/Businessmen with regular income"
+        ]
+      },
+      "loan_purpose": [
+        "Up-gradation, renovation, and extension of residential property",
+        "Medical and emergency expenditure for family maintenance",
+        "Meeting wedding expenses",
+        "Major surgical operations",
+        "Business expansion or starting a new venture",
+        "Meeting other genuine needs as specified by the borrower and agreed to by the lender",
+        "Planning to start a small business"
+      ],
+      "quantum_of_finance": "As per eligibility and income earning capacity",
+      "repayment_details": "By EMI or Regular payments",
+      "processing_charges_and_service_tax": "Processing Fees and Other Charges (Inclusive) PLUS Service Tax as applicable",
+      "supporting_documents": {
+        "photo_identity_proof": [
+          "Passport",
+          "PAN card",
+          "Voters Identity Card",
+          "Driving License"
+        ],
+        "residence_proof": [
+          "Telephone Bill",
+          "Letter from any recognized Public Authority",
+          "Electricity Bill",
+          "Ration Card",
+          "Letter from employer (subject to satisfaction by the Bank)",
+          "Property Tax Book/Receipt",
+          "Registered Lease Deed"
+        ],
+        "other_documents": [
+          "Application on Prescribed form",
+          "Two photographs of Borrower and Guarantors",
+          "Address proof of Borrower and Guarantors (copy of Ration Card, Election card, Telephone bill, Driving License, etc.)",
+          "Income proof (Copy of Income Tax Return, Financial Statement of the Firm, Sales Tax returns, etc.)",
+          "Profile of Guarantors",
+          "Loan should be guaranteed by three financially sound Guarantors having net individual worth twice the loan amount",
+          "Acceptance of other marketable security"
+        ]
+      }
+    }
+
+
+]
+

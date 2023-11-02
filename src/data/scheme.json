@@ -1,0 +1,97 @@
+[
+  {
+    "key": "saving",
+    "quote": "Good health is not something we can buy. However, it can be an extremely valuable savings account.",
+    "description": "Money can be deposited / withdrawn into an account as per the wish of the account holder. SB accounts are opened to encourage by KOSI VIKAS NIDHI LIMITED.",
+    "name": "SAVING DEPOSIT SCHEME",
+    "featuresAndBenefits": [
+      "Introductory Interest Rate",
+      "Minimum Opening Deposit",
+      "Monthly Deposit Requirements",
+      "Promote Savings",
+      "Frequency of Withdrawals"
+    ],
+    "kycDocumentsRequired": {
+    "Identity Proof": [
+      "Passport",
+      "Voter ID Card",
+      "PAN Card",
+      "Driving License",
+      "Aadhaar Card",
+      "Government/ Defence ID Card",
+      "ID Card of Reputed Employer",
+      "Pension Payment Order",
+      "Photo ID Card Issued by Post Office",
+      "Photo ID Card Issued by University",
+      "Photo ID Card Issued by Public Authority",
+      "NREGA Card",
+      "Photo Ration Card",
+      "Senior Citizen ID Card"
+    ],
+    "Address Proof": [
+      "Credit Card Statement (not more than 3 months old)",
+      "Income/ Wealth Tax Assessment Order",
+      "Electricity Bill (not more than 6 months old)",
+      "Telephone Bill (not more than 3 months old)",
+      "Bank Account Statement",
+      "Letter from Reputed Employer",
+      "Letter from Public Authority",
+      "Voter ID Card (only if it contains the current address)",
+      "Lease Deed/Sale Deed"
+    ]
+  }
+  },
+  {
+    "key": "fd",
+    "quote": "Fixed Deposit account is opened by that individual who wants to save for a certain period of time and can earn a good rate of interest.",
+    "description": "A fixed deposit is a financial instrument where a member gets assured ROI. It is an investment opportunity provided by KOSI VIKAS NIDHI LIMITED with the benefits of a higher rate of interest than a Normal Saving Account.",
+    "name": "FIXED DEPOSIT SCHEME",
+    "featuresAndBenefits": [
+      "Attractive and assured Return.",
+      "Impeccable services.",
+      "A wide range of deposit products to choose.",
+      "Quarterly interest will be credited to depositor’s Bank account, if opted."
+    ]
+  },
+  {
+    "key": "daily",
+    "quote": "Daily Deposit Scheme is a monetary deposit scheme introduced to help daily wage earners, small traders, to inculcate saving habits and also as a way of funding their bigger capital requirements.",
+    "description": "Daily Deposit Scheme is a monetary deposit scheme introduced by KOSI VIKAS NIDHI LIMITED to help daily wage earners, small traders, to inculcate saving habits and also as a way of funding their bigger capital requirements.",
+    "name": "DAILY DEPOSIT SCHEME",
+    "featuresAndBenefits": [
+      "Money can be deposited into an account on a daily basis.",
+      "Period of deposit is a minimum of 1 Year.",
+      "Repayment with interest on the maturity date.",
+      "Loan can be granted on the accumulated deposit amount."
+    ]
+  },
+  {
+    "key": "mis",
+    "quote": "All resident individuals eligible to open a 'Monthly Income Scheme' account in single/joint name.",
+    "description": "Daily Deposit Scheme is a monetary deposit scheme introduced by KOSI VIKAS NIDHI LIMITED to help daily wage earners, small traders, to inculcate saving habits and also as a way of funding their bigger capital requirements.",
+    "name": "MONTHLY INCOME SCHEME",
+    "featuresAndBenefits": [
+      "MIS is the product where members have to invest upfront, to get the return every month till the end of the tenure of the respective MIS.",
+      "Attractive and assured Returns.",
+      "Impeccable services.",
+      "A wide range of deposit products to choose."
+    ]
+  }
+  ,
+    {
+    "key": "rd",
+  "quote": "Recurring Deposit account is opened by that individual who wants to save regularly for a certain period of time and can earn a good rate of interest.",
+  "description": "Recurring Deposit is a special kind of Term Deposit offered by KOSI VIKAS NIDHI LIMITED, which helps members with regular incomes to deposit a fixed amount every month into their Recurring Deposit account and earn interest at the applicable rate.",
+  "name": "RECURRING DEPOSIT SCHEME",
+"featuresAndBenefits": [
+      "A simple investment product.",
+      "Assured returns.",
+      "Flexibility of tenure and the amount to be deposited.",
+      "Flexibility in withdrawal.",
+      "Fixed interest rate."
+    ]
+  }
+]
+
+
+

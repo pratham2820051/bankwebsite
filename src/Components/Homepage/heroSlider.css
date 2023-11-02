@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.right {
+  width: 100%;
+  height: 70vh;
+  text-align: center;
+  background: #141e30; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #243b55,
+    #141e30
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #243b55,
+    #141e30
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.heroslider {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 60vh;
+  color: #fff;
+  padding: 40px 0 0 0px;
+}
+.heroslider .slider-title {
+  font-size: 68px;
+  font-weight: 900;
+}
+.heroslider .slider-desc {
+  margin: 50px 0;
+  font-size: 28px;
+  font-weight: 900;
+}
+.heroslider .slider-button {
+  color: #fff;
+  background: #242424cc;
+  padding: 13px 15px;
+  font-size: 24px;
+  border-radius: 10px;
+}

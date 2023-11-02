@@ -1,0 +1,94 @@
+
+.about-us-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .main-heading {
+    font-size: 36px;
+    color: #007BFF;
+    margin-bottom: 40px;
+  }
+  
+  .main-headingg {
+    font-size: 36px;
+    color: #007BFF;
+    margin-bottom: -10px;
+  }
+
+  .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .image {
+    flex: 1;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .imagee {
+    flex: 1;
+    text-align: left;
+    padding: 20px;
+    max-width: 100%;
+    max-height: 400px;
+    display: block; 
+    margin: 0 auto; 
+  }
+
+
+  .image img {
+    max-width: 100%;
+    max-height: 400px;
+    display: block; 
+    margin: 0 auto; 
+  }
+  
+  .text {
+    flex: 2;
+    padding: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .text1 p {
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+  }
+
+  .text p{
+    text-align: justify;
+    margin-right: 20px;
+  }
+
+
+.branch {
+  text-align: left;
+  margin-bottom: 20px;
+  margin-left: 70px;
+  color: green;
+}
+
+.branch h2 {
+  font-size: 24px;
+}
+
+.branch-info b{
+  font-weight: bold;
+}
+.branch-info {
+  text-align: left;
+  margin-left: 70px;
+}
+
+.branch-info p {
+  margin: 5px 0;
+}
